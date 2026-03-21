@@ -1,27 +1,67 @@
-### Olá!, meu nome é Vitor Gabriel. <img width="28" height="59" alt="image" src="https://github.com/user-attachments/assets/51a24f41-7b22-4ac6-9bca-7663763cae82" />
+<h1 align="center">👋 Olá, eu sou Vitor Gabriel</h1>
 
-
-Iniciei minha faculdade de ADS (Análise e desenvolvimento de software) na instituição CEUB, atualmente no 1° semestre. Tenho algumas experiências com informática, porem programando é a primeira vez. Trabalho com atendimento ao cliente e uma loja de eletrônicos e acessórios a mais ou menos 1 ano e estou sempre a disposição para trabalhar.
-* 🖥️ Veja meu portfólio em [Saiba Mais](http://github.com/Vitor-gabriel1274/Projeto-1/tree/main)
-* ✉️ Você pode entrar em contato comigo em (_Sdmvitorgabriel@gmail.com_)
-* 🧠 Atualmente estou aprendendo python
-
-### Habilidades
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Python;Buscando+minha+primeira+oportunidade+em+TI" />
 </p>
 
-### Redes Sociais
+---
 
-<p align="left"> <a href="https://www.github.com/Vitor-gabriel1274" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" <a href="https://www.linkedin.com/in/vitor-gabriel-553520278" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@vitor_gabriel.bsb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.instagram.com/vitor_gabriel.bsb" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" 
-         width="32" height="32" alt="Instagram" title="Instagram" />
-  </picture>
+## Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (CEUB) — 1º semestre  
+- 💼 Experiência com atendimento ao cliente e tecnologia  
+- 🧠 Atualmente estudando Python  
+- 📌 Buscando minha primeira oportunidade na área de TI  
+
+Tenho facilidade em aprender rápido, me adaptar e trabalhar com pessoas.
+
+---
+
+## Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</p>
+
+---
+
+## Skills
+- 🔗 [Meus Projetos](http://github.com/Vitor-gabriel1274/Projeto-1)
+
+---
+
+## 📊 Estatísticas
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vitor-gabriel1274&show_icons=true&hide_border=true&locale=pt-br"/>
+
+---
+
+## 🌐 Conecte-se comigo
+<p>
+
+<a href="https://www.github.com/Vitor-gabriel1274" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<b>Principais repositórios</b>
+<a href="https://www.linkedin.com/in/vitor-gabriel-553520278" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 
-<div width="100%" align="center"> <a href="https://github.com/Vitor-gabriel1274/p" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-gabriel1274&repo=p&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> </div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.instagram.com/vitor_gabriel.bsb" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/@vitorgabrielbsb?si=g6VU8bbTEvph3qhd" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" 
+       width="32" height="32" alt="YouTube" title="YouTube"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Contato
+📧 **Sdmvitorgabriel@gmail.com**
+
+---
+
+<p align="center">
+🔥 <b>"Construindo meu futuro uma linha de código por vez."</b> 🔥
