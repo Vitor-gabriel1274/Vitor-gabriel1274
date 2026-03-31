@@ -64,4 +64,4 @@ Tenho facilidade em aprender rápido, me adaptar e trabalhar com pessoas.
 ---
 
 <p align="center">
-🔥 <b>"Construindo meu futuro uma linha de código por vez."</b> 🔥
+🔥 <b>"Construindo meu futuro! Uma linha de código por vez."</b> 🔥
