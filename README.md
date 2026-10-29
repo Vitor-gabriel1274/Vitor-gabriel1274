@@ -7,7 +7,7 @@
 ---
 
 ## Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (CEUB) — 1º semestre  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (CEUB) — 2º semestre  
 - 💼 Experiência com atendimento ao cliente e tecnologia  
 - 🧠 Atualmente estudando Python  
 - 📌 Buscando minha primeira oportunidade na área de TI  
